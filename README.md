@@ -15,9 +15,6 @@ Repository Link: [GitHub Repository](https://github.com/alrezmlk/neuroscience-of
   - [Assignment 3: CNN Layers and Visual Perception](#assignment-3-cnn-layers-and-visual-perception)
 - [Reinforcement Learning Project](#reinforcement-learning-project)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
